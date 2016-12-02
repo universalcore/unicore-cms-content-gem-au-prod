@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
-  "description": "\r\nComment avoir une peau tr\u00e8s propre \r\n", 
+  "subtitle": "Comment avoir une peau tr\u00e8s propre ", 
+  "description": "\r\n", 
   "language": "fre_FR", 
   "title": " Les choses \u00e0 faire et \u00e0 ne pas faire pour se d\u00e9barrasser des boutons  ", 
   "primary_category": "4883cfe42b794fc69fe948c3f55cb933", 
   "created_at": "2016-05-16T06:39:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-11-30T15:36:42.380239+00:00", 
+  "modified_at": "2016-12-02T07:21:14.534976+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [

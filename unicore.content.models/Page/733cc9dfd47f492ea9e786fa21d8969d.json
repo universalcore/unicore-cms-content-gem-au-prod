@@ -6,12 +6,12 @@
   "primary_category": "1a6b0ffde5074d6b9ceb96c7147362e6", 
   "created_at": "2015-04-01T21:41:32+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-12-05T10:58:49.002541+00:00", 
+  "modified_at": "2016-12-05T11:01:22.107010+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 86, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "i-was-ashamed-at-school", 
   "uuid": "733cc9dfd47f492ea9e786fa21d8969d"

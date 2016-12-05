@@ -6,12 +6,12 @@
   "primary_category": "6f3763ee6f67423ca28a05cf665bbadf", 
   "created_at": "2016-05-16T05:42:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-05T09:39:15.452281+00:00", 
+  "modified_at": "2016-12-05T10:25:22.243999+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "0c651cdd3a934e30a9196dc90bc3fbcc", 
   "published": null, 
-  "position": 133, 
+  "position": 22, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "staying-safe-online", 
   "uuid": "92d509386ea445e3b8cb7d06a1763e91"

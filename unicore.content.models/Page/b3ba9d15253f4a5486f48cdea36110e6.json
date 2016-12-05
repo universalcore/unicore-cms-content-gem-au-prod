@@ -6,12 +6,12 @@
   "primary_category": "6f3763ee6f67423ca28a05cf665bbadf", 
   "created_at": "2016-05-16T06:16:28+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-01T11:07:21.609926+00:00", 
+  "modified_at": "2016-12-05T10:25:20.718190+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "54dee85b3bc24ffca7eb0049319b169a", 
   "published": null, 
-  "position": 41, 
+  "position": 14, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-should-i-save", 
   "uuid": "b3ba9d15253f4a5486f48cdea36110e6"

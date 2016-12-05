@@ -1,17 +1,17 @@
 {
   "subtitle": "Alors j'ai d\u00e9couvert la musique et la danse. ", 
-  "description": "", 
+  "description": "Alors j'ai d\u00e9couvert la musique et la danse. ", 
   "language": "fre_FR", 
   "title": " La vie ne cessait d'empirer ", 
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
   "created_at": "2016-06-05T21:53:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-05T10:23:10.475578+00:00", 
+  "modified_at": "2016-12-05T13:00:49.761073+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "69a7fb6a6a084efa8c27759288025603", 
   "published": null, 
-  "position": 13, 
+  "position": 162, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "life-kept-getting-worse", 
   "uuid": "8f2f8195ccb44046a69d7e00ec908054"

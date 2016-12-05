@@ -6,12 +6,12 @@
   "primary_category": "61a26ec815ed4eb7be433ac74400bf8f", 
   "created_at": "2016-07-25T20:10:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-02T07:24:15.099427+00:00", 
+  "modified_at": "2016-12-05T10:24:26.749493+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "139668312e54454bad5f7981dc68af38", 
   "published": null, 
-  "position": 14, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "il-est-difficile-de-trouver-du-travail", 
   "uuid": "0950f8a66cce4e5191eac57f817f330c"

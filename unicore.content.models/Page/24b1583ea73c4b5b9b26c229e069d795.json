@@ -6,12 +6,12 @@
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
   "created_at": "2016-06-05T22:10:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-05T10:29:54.057110+00:00", 
+  "modified_at": "2016-12-07T12:16:02.840458+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "5835b0d6ba6648d38b0b7df0db156fa3", 
   "published": null, 
-  "position": 79, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "my-best-friend-is-sick", 
   "uuid": "24b1583ea73c4b5b9b26c229e069d795"

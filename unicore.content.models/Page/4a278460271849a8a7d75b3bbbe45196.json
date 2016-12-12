@@ -6,12 +6,12 @@
   "primary_category": "af87d9c5b59f4ba88e91010e80688b27", 
   "created_at": "2014-12-31T04:14:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-09T09:57:52.916597+00:00", 
+  "modified_at": "2016-12-12T08:53:02.220408+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "fc65c1ad5a424a4ea86cf9bdc4778f1b", 
   "published": null, 
-  "position": 285, 
+  "position": 16, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Eugenie", 
   "uuid": "4a278460271849a8a7d75b3bbbe45196"

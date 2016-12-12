@@ -6,12 +6,12 @@
   "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
   "created_at": "2015-12-12T04:24:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-11-30T10:42:09.725503+00:00", 
+  "modified_at": "2016-12-12T08:51:10.466362+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "d57d855864f54ab99884f053f407770a", 
   "published": null, 
-  "position": 3, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "joanna-was-sold-money", 
   "uuid": "d078cf81a9804a0aa5329ac70027cf0f"

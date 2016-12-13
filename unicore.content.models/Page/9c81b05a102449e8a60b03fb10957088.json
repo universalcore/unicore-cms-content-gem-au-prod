@@ -1,17 +1,17 @@
 {
   "subtitle": "Si sasa tu, lakini milele", 
-  "description": "", 
+  "description": "Si sasa tu, lakini milele", 
   "language": "swa_TZ", 
   "title": "Kuwa mzuri zaidi kwa rafiki yako wa dhati ", 
   "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
   "created_at": "2016-07-11T22:36:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-12T03:40:22.920588+00:00", 
+  "modified_at": "2016-12-13T18:38:15.805983+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "550a321e2c9a4f299806d0a790772a6e", 
   "published": null, 
-  "position": 119, 
+  "position": 220, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "be-best-your-bestie", 
   "uuid": "9c81b05a102449e8a60b03fb10957088"

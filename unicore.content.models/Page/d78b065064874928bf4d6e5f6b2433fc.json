@@ -1,17 +1,17 @@
 {
   "subtitle": "Lisome, Liunge mkono, Ulitekeleze!", 
-  "description": "", 
+  "description": "Lisome, Liunge mkono, Ulitekeleze!", 
   "language": "swa_TZ", 
   "title": "Azimio la Msichana", 
   "primary_category": "93d5b8b8586b45f590d4d05c5c261814", 
   "created_at": "2015-03-20T07:22:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-11T19:04:13.827142+00:00", 
+  "modified_at": "2016-12-13T17:51:53.857160+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "6b96f32f9f1f491b9c8d3edec20b8909", 
   "published": null, 
-  "position": 114, 
+  "position": 215, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "girl-declaration", 
   "uuid": "d78b065064874928bf4d6e5f6b2433fc"

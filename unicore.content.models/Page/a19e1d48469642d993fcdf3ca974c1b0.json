@@ -1,17 +1,17 @@
 {
   "subtitle": "Vidokezo maarufu kwa kipindi chako bora cha kusoma", 
-  "description": "\r\n", 
+  "description": "Vidokezo maarufu kwa kipindi chako bora cha kusoma", 
   "language": "swa_TZ", 
   "title": " Tayari, weka, jifunze!", 
   "primary_category": "59e00114978a4248ba6d4782f3e3c663", 
   "created_at": "2015-12-31T11:27:06+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-12T08:06:05.955057+00:00", 
+  "modified_at": "2016-12-13T18:26:22.715046+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "ad32b47f581243e589e64ed7aa4aa20e", 
   "published": null, 
-  "position": 154, 
+  "position": 255, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ready-set-learn", 
   "uuid": "a19e1d48469642d993fcdf3ca974c1b0"

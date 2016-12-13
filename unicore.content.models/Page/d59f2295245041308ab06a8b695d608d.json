@@ -1,17 +1,17 @@
 {
   "subtitle": "Hedhi zinaweza kuwa na maumivu, katika hali halisi. Lakini si lazima zote ziwe mbaya! Hivi hapa ni vidokezo vya kukabiliana... ", 
-  "description": "\r\n", 
+  "description": "Hedhi zinaweza kuwa na maumivu, katika hali halisi. Lakini si lazima zote ziwe mbaya! Hivi hapa ni vidokezo vya kukabiliana... ", 
   "language": "swa_TZ", 
   "title": "Kuwa na hedhi yenye furaha!", 
   "primary_category": "124dc1efb4574f518dc8f8cb8e0393d3", 
   "created_at": "2015-12-31T11:36:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-12T05:31:47.632030+00:00", 
+  "modified_at": "2016-12-13T18:31:02.989445+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "a176cd4248aa46019882fe59f2fdcfa2", 
   "published": null, 
-  "position": 131, 
+  "position": 232, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "have-happy-period", 
   "uuid": "d59f2295245041308ab06a8b695d608d"

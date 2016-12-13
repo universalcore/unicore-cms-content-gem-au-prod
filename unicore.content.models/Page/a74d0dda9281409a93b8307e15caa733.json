@@ -1,24 +1,24 @@
 {
   "subtitle": "Kazi inayokufaa ni ile inayoridhisha nafsi yako! Fanya jaribio hili la kufurahisha ili kujua kazi zinazoweza kukufaa. ", 
-  "description": "", 
+  "description": "Kazi inayokufaa ni ile inayoridhisha nafsi yako! Fanya jaribio hili la kufurahisha ili kujua kazi zinazoweza kukufaa. ", 
   "language": "swa_TZ", 
   "title": "Ni Kazi Gani Bora Kwako?", 
   "primary_category": "59e00114978a4248ba6d4782f3e3c663", 
   "created_at": "2016-12-12T12:34:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-13T07:43:59.067569+00:00", 
+  "modified_at": "2016-12-13T18:21:09.126536+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "afd0b468dce3431e83e5f074349fe084"
   ], 
   "id": null, 
-  "content": "\r\n1. Unapotazama kipindi au filamu kwenye televisheni, ni nini unachotambua sana?\r\nA) Asili maridadi na hisia za waigizaji \r\nB) Vita, mbio za magari na athari maalum za kuvutia\r\nC) Gharama ya kutengeneza na malipo waliyolipwa waigizaji \r\n\r\n2. Unapopanga kutembea na marafiki au tukio shuleni, ni kauli gani inayokuelezea vizuri?\r\nA) Mimi ndimi ninayehusika na mambo ya kufurahisha \u2013 muziki, michezo na vyakula\r\nB) Mimi ndimi ninayehakikisha kuwa kila mtu amealikwa na kuwasili kwa wakati \r\nC) Mimi ndimi ninayefanya utafiti wote, kutafuta eneo na kutambua gharama ya kila kitu\r\n3. Ni vitabu vya aina gani unavyofurahia kusoma?\r\nA) Dhana na mapenzi \r\nB) Sayansi, anga, usafiri na utambuzi\r\nC) Hadithi za kuhimiza kutoka kwa watu halisi\r\n\r\n4. Unapokumbwa na changamoto ni ujuzi gani unaotumia kuzikabili?\r\nA) Nitajaribu kujiondoa kwenye hali \r\nB) Ninapenda kutumia mikono yangu, kwa hivyo nitajaribu kuunda au kufanya kinachoweza kutatua tatizo langu\r\nC) Ninapenda kufanya utafiti au kusoma vitabu shuleni ili kupata majibu\r\n\r\n5. Ikiwa ulikuwa na mmea au ukipanda mboga na kutambua kuwa zinaonekana hali mbaya kidogo, utafanya nini?  \r\nA) Nitazungumza na kuiimbia mimea\r\nB) Nitafanya jaribio ili kuunda tiba ya kujitengenezea au ya kiasili \r\nC) Nitatafiti na kuchanganua dalili na kisha nijaribu suluhisho bora   \r\nUlipata nini?\r\n\r\nA Nyingi \r\nUna moyo wa kujali sana mwenye ujuzi mwingi wa kisanii. Nguvu zako ni kuwa una ndoto na unapenda kuwasaidia wengine. Watu wabunifu hufanya vyema katika kazi zinazohusu muziki, uandishi, uanahabari, kufundisha, mtindo na kazi ya jamii.  \r\n\r\nB Nyingi \r\nUnapenda kufanya majaribio na unataka kuelewa mchakato wa vitu. Kazi katika sayansi, kwenye kiwanda, udaktari, ukulima, umekanika au hata tasnia ya vyakula, inaweza kukufanya kuwa bora.\r\n\r\nC Nyingi \r\nWewe ni mtu anayependa kufahamu njia sahihi ya kufanya mambo, kutumia utafiti. Ikiwa unaelewa hisabati, basi uhasibu au biashara itakufaa. Ikiwa unapenda kusoma vitabu utapenda kazi ya sheria, serikali au chuoni.  \r\n", 
+  "content": "1. Unapotazama kipindi au filamu kwenye televisheni, ni nini unachotambua sana?\r\nA) Asili maridadi na hisia za waigizaji \r\nB) Vita, mbio za magari na athari maalum za kuvutia\r\nC) Gharama ya kutengeneza na malipo waliyolipwa waigizaji \r\n\r\n2. Unapopanga kutembea na marafiki au tukio shuleni, ni kauli gani inayokuelezea vizuri?\r\nA) Mimi ndimi ninayehusika na mambo ya kufurahisha \u2013 muziki, michezo na vyakula\r\nB) Mimi ndimi ninayehakikisha kuwa kila mtu amealikwa na kuwasili kwa wakati \r\nC) Mimi ndimi ninayefanya utafiti wote, kutafuta eneo na kutambua gharama ya kila kitu\r\n3. Ni vitabu vya aina gani unavyofurahia kusoma?\r\nA) Dhana na mapenzi \r\nB) Sayansi, anga, usafiri na utambuzi\r\nC) Hadithi za kuhimiza kutoka kwa watu halisi\r\n\r\n4. Unapokumbwa na changamoto ni ujuzi gani unaotumia kuzikabili?\r\nA) Nitajaribu kujiondoa kwenye hali \r\nB) Ninapenda kutumia mikono yangu, kwa hivyo nitajaribu kuunda au kufanya kinachoweza kutatua tatizo langu\r\nC) Ninapenda kufanya utafiti au kusoma vitabu shuleni ili kupata majibu\r\n\r\n5. Ikiwa ulikuwa na mmea au ukipanda mboga na kutambua kuwa zinaonekana hali mbaya kidogo, utafanya nini?  \r\nA) Nitazungumza na kuiimbia mimea\r\nB) Nitafanya jaribio ili kuunda tiba ya kujitengenezea au ya kiasili \r\nC) Nitatafiti na kuchanganua dalili na kisha nijaribu suluhisho bora   \r\nUlipata nini?\r\n\r\nA Nyingi \r\nUna moyo wa kujali sana mwenye ujuzi mwingi wa kisanii. Nguvu zako ni kuwa una ndoto na unapenda kuwasaidia wengine. Watu wabunifu hufanya vyema katika kazi zinazohusu muziki, uandishi, uanahabari, kufundisha, mtindo na kazi ya jamii.  \r\n\r\nB Nyingi \r\nUnapenda kufanya majaribio na unataka kuelewa mchakato wa vitu. Kazi katika sayansi, kwenye kiwanda, udaktari, ukulima, umekanika au hata tasnia ya vyakula, inaweza kukufanya kuwa bora.\r\n\r\nC Nyingi \r\nWewe ni mtu anayependa kufahamu njia sahihi ya kufanya mambo, kutumia utafiti. Ikiwa unaelewa hisabati, basi uhasibu au biashara itakufaa. Ikiwa unapenda kusoma vitabu utapenda kazi ya sheria, serikali au chuoni.  \r\n", 
   "source": "7354ad515d524f32982b577ab6c17b9b", 
   "featured": false, 
   "author_tags": [], 

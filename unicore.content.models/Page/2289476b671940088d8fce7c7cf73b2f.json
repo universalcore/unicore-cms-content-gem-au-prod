@@ -1,17 +1,17 @@
 {
   "subtitle": "Huu hapa ni ukweli", 
-  "description": "", 
+  "description": "Huu hapa ni ukweli", 
   "language": "swa_TZ", 
   "title": "Umeanza kupata hedhi zako? ", 
   "primary_category": "124dc1efb4574f518dc8f8cb8e0393d3", 
   "created_at": "2014-10-24T09:43:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-12T08:24:56.340277+00:00", 
+  "modified_at": "2016-12-13T18:53:28.628451+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "9ec525e57e834ed291282d9d7a1034ac", 
   "published": null, 
-  "position": 161, 
+  "position": 262, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "have-you-started-menstruating", 
   "uuid": "2289476b671940088d8fce7c7cf73b2f"

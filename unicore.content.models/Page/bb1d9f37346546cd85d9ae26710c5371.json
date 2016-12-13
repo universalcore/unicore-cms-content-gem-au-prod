@@ -1,17 +1,17 @@
 {
   "subtitle": "Vidokezo rahisi vya kula vizuri", 
-  "description": "\r\n", 
+  "description": "Vidokezo rahisi vya kula vizuri", 
   "language": "swa_TZ", 
   "title": " Kanuni za chakula chenye afya", 
   "primary_category": "124dc1efb4574f518dc8f8cb8e0393d3", 
   "created_at": "2015-12-31T11:39:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-12T06:52:36.960068+00:00", 
+  "modified_at": "2016-12-13T18:31:24.344893+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "9e776cd9ce844ce9b011352e53f1b017", 
   "published": null, 
-  "position": 135, 
+  "position": 236, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "healthy-food-rulz", 
   "uuid": "bb1d9f37346546cd85d9ae26710c5371"

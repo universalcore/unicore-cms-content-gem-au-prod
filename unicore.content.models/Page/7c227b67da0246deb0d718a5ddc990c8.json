@@ -3,15 +3,15 @@
   "description": "", 
   "language": "swa_TZ", 
   "title": "Unaweza kutumia pesa vizuri sana!", 
-  "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+  "primary_category": "59e00114978a4248ba6d4782f3e3c663", 
   "created_at": "2016-07-11T22:32:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-11T07:33:32.476682+00:00", 
+  "modified_at": "2016-12-13T09:35:43.472600+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "8294b29ba639495b931207873a9400a2", 
   "published": null, 
-  "position": 108, 
+  "position": 209, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "you-can-be-great-money", 
   "uuid": "7c227b67da0246deb0d718a5ddc990c8"

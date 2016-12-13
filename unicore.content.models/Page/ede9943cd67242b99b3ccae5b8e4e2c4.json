@@ -1,17 +1,17 @@
 {
   "subtitle": "Fanya ngozi, nywele na kucha zako zivutie... bila kutumia hela zozote.", 
-  "description": "\r\n", 
+  "description": "Fanya ngozi, nywele na kucha zako zivutie... bila kutumia hela zozote.", 
   "language": "swa_TZ", 
   "title": " Hujambo, Urembo Wako wa Asili! ", 
   "primary_category": "124dc1efb4574f518dc8f8cb8e0393d3", 
   "created_at": "2015-12-31T11:45:38+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-12T07:55:00.397974+00:00", 
+  "modified_at": "2016-12-13T18:32:01.346030+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "15daa6cce2a246d2b1f9ebc29ac8cdab", 
   "published": null, 
-  "position": 145, 
+  "position": 246, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hey-you-natural-beauty", 
   "uuid": "ede9943cd67242b99b3ccae5b8e4e2c4"

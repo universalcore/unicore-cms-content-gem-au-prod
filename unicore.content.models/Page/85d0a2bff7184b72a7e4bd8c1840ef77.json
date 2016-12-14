@@ -6,12 +6,12 @@
   "primary_category": "745c06b1826b49748d04f8ee01249d15", 
   "created_at": "2016-06-05T19:55:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-13T06:58:50.342404+00:00", 
+  "modified_at": "2016-12-14T10:44:39.161687+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "c89af1308fe2456eb5597b10fa482c18", 
   "published": null, 
-  "position": 48, 
+  "position": 55, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-do-i-stop-facebook-bullies", 
   "uuid": "85d0a2bff7184b72a7e4bd8c1840ef77"

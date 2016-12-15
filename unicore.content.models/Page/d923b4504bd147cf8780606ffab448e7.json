@@ -6,12 +6,12 @@
   "primary_category": "a8fc9ae43617483bab6337eba8a9261b", 
   "created_at": "2016-01-02T12:17:03+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-12-09T10:20:03.259490+00:00", 
+  "modified_at": "2016-12-15T08:18:56.923584+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "d47043cbbf724be0a280eaf3c1945c50", 
   "published": null, 
-  "position": 296, 
+  "position": 423, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "raise-your-hand", 
   "uuid": "d923b4504bd147cf8780606ffab448e7"

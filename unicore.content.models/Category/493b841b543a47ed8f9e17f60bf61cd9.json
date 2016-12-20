@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "493b841b543a47ed8f9e17f60bf61cd9", 
   "language": "khm_KH", 
-  "title": "Khmer Body ", 
+  "title": " \u179a\u17b6\u1784\u1780\u17b6\u1799\u179a\u1794\u179f\u17cb\u1781\u17d2\u1789\u17bb\u17c6", 
   "image": null, 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "khmer-body", 

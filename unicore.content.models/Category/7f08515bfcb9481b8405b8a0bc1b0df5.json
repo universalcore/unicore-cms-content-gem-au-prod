@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "7f08515bfcb9481b8405b8a0bc1b0df5", 
   "language": "khm_KH", 
-  "title": "\u1780\u17d2\u1798\u17c1\u1784\u179f\u17d2\u179a\u17b8\u200b\u1787\u17b6\u200b\u179c\u17b8\u179a\u1793\u17b6\u179a\u17b8", 
+  "title": " \u179a\u17bf\u1784\u179a\u17c9\u17b6\u179c\u179a\u1794\u179f\u17cb\u1780\u17d2\u1798\u17c1\u1784\u179f\u17d2\u179a\u17b8", 
   "image": null, 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "girl-heroes", 

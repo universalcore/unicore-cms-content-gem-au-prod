@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "91fd1d21ab5a4691be4439aa223ae4fb", 
   "language": "khm_KH", 
-  "title": "Khmer Future ", 
+  "title": " \u17a2\u1793\u17b6\u1782\u178f\u179a\u1794\u179f\u17cb\u1781\u17d2\u1789\u17bb\u17c6", 
   "image": null, 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "khmer-future", 

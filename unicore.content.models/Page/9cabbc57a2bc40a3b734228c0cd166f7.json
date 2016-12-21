@@ -6,12 +6,12 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-09-03T13:15:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-12T09:04:58.563559+00:00", 
+  "modified_at": "2016-12-21T13:31:40.603592+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "b58aaf356088486bbebe6e6e14270f23", 
   "published": null, 
-  "position": 120, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "nomeansno", 
   "uuid": "9cabbc57a2bc40a3b734228c0cd166f7"

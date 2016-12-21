@@ -6,12 +6,12 @@
   "primary_category": "a8fc9ae43617483bab6337eba8a9261b", 
   "created_at": "2016-07-25T19:47:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-21T08:19:18.720440+00:00", 
+  "modified_at": "2016-12-21T13:27:32.246234+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "a48ecce6ed844902a4fa64782b6ac042", 
   "published": null, 
-  "position": 10, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "escreve-um-bom-curriculo", 
   "uuid": "32935fdfa82a4f5f9c14966422ee1019"

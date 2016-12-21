@@ -6,12 +6,12 @@
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-03T07:49:32+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-12-12T08:42:00.009937+00:00", 
+  "modified_at": "2016-12-21T13:31:16.830203+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "a87bac7c061543c99834712a33703138", 
   "published": null, 
-  "position": 23, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "amotherat16", 
   "uuid": "cd61ed22711943aeafb61cef7543de9e"

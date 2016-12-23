@@ -2,16 +2,16 @@
   "subtitle": "", 
   "description": "\u1796\u17b8\u1796\u17d2\u179a\u17c4\u17c7\u200b\u179c\u17b6\u200b\u1795\u17d2\u178a\u179b\u17cb\u200b\u17a2\u1793\u17b6\u1782\u178f\u200b\u1797\u17d2\u179b\u17ba\u179f\u17d2\u179c\u17b6\u1784\u200b\u178a\u179b\u17cb\u200b\u17a2\u17d2\u1793\u1780!", 
   "language": "khm_KH", 
-  "title": "**\u17a0\u17c1\u178f\u17bb\u17a2\u17d2\u179c\u17b8\u200b\u178f\u17d2\u179a\u17bc\u179c\u200b\u1794\u17d2\u179a\u17b9\u1784\u1794\u17d2\u179a\u17c2\u1784\u200b\u179a\u17c0\u1793\u200b\u179f\u17bc\u178f\u17d2\u179a? ", 
+  "title": "\u17a0\u17c1\u178f\u17bb\u17a2\u17d2\u179c\u17b8\u200b\u178f\u17d2\u179a\u17bc\u179c\u200b\u1794\u17d2\u179a\u17b9\u1784\u1794\u17d2\u179a\u17c2\u1784\u200b\u179a\u17c0\u1793\u200b\u179f\u17bc\u178f\u17d2\u179a? ", 
   "primary_category": "91fd1d21ab5a4691be4439aa223ae4fb", 
   "created_at": "2016-06-05T20:27:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-20T12:15:09.989879+00:00", 
+  "modified_at": "2016-12-23T07:12:39.248081+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "cf92a77e834344fab12d50c5ec8b1b95", 
   "published": null, 
-  "position": 11, 
+  "position": 13, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-study-hard", 
   "uuid": "560328cd4d6d4f93be3543f0996756bf"

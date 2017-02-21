@@ -4,14 +4,14 @@
   "language": "rus_RU", 
   "title": " \u0417\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0431\u0435\u0437 \u0431\u043e\u043b\u044c\u043d\u0438\u0446", 
   "primary_category": "351f2952bdd24f0cbddccb5d4767e2a8", 
-  "created_at": "2017-01-24T09:55:24.183517+00:00", 
+  "created_at": "2017-01-24T09:55:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-01-24T09:55:24.183747+00:00", 
+  "modified_at": "2017-02-21T12:24:27.235585+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "895804d29a824a56ad7b3107c2c870d0", 
   "published": null, 
-  "position": 0, 
+  "position": 37, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "healthy-at-home", 
   "uuid": "f4cf35c6be9545c593cb8547935f863e"

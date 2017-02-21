@@ -4,14 +4,14 @@
   "language": "rus_RU", 
   "title": "\u041d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044b\u0439 \u043e\u0431\u0440\u0430\u0437 \u0436\u0438\u0437\u043d\u0438 \u0442\u044b \u0432\u0435\u0434\u0435\u0448\u044c?", 
   "primary_category": "351f2952bdd24f0cbddccb5d4767e2a8", 
-  "created_at": "2017-01-24T10:46:34.689506+00:00", 
+  "created_at": "2017-01-24T10:46:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-01-24T10:46:34.689720+00:00", 
+  "modified_at": "2017-02-21T12:31:13.700495+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "a93e4cf5e60740db9fd49ad279f6a813", 
   "published": null, 
-  "position": 0, 
+  "position": 35, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-healthy-are-you", 
   "uuid": "6b68d2413d214e13ac7ecb2e922c2fa3"

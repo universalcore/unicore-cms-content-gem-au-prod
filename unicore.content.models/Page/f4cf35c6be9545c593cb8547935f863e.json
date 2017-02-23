@@ -6,12 +6,12 @@
   "primary_category": "351f2952bdd24f0cbddccb5d4767e2a8", 
   "created_at": "2017-01-24T09:55:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-21T12:24:27.235585+00:00", 
+  "modified_at": "2017-02-23T11:52:07.970611+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "895804d29a824a56ad7b3107c2c870d0", 
   "published": null, 
-  "position": 37, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "healthy-at-home", 
   "uuid": "f4cf35c6be9545c593cb8547935f863e"

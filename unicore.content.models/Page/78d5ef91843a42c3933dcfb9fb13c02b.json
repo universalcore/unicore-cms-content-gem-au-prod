@@ -2,16 +2,16 @@
   "subtitle": "", 
   "description": "", 
   "language": "rus_RU", 
-  "title": "Terms and Conditions", 
+  "title": " \u0423\u0441\u043b\u043e\u0432\u0438\u044f \u0438 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f", 
   "primary_category": null, 
   "created_at": "2015-09-18T16:36:47+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-01-23T12:32:47.498912+00:00", 
+  "modified_at": "2017-02-23T11:56:36.561724+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 44, 
+  "position": 91, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "terms", 
   "uuid": "78d5ef91843a42c3933dcfb9fb13c02b"

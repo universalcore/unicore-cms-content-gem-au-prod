@@ -6,12 +6,12 @@
   "primary_category": "663ab25aeb9d4bbaad565dbec67d9758", 
   "created_at": "2017-01-24T12:44:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-23T10:44:41.013976+00:00", 
+  "modified_at": "2017-02-23T11:54:35.995811+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "3b44e9ae4ea04356b890c4e9a5a08a98", 
   "published": null, 
-  "position": 26, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-a-super-saver", 
   "uuid": "84959a251e7f4b66bbdd025e9d0eefb4"

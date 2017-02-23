@@ -6,12 +6,12 @@
   "primary_category": "0068800738b44a9893ca65c8d4d64233", 
   "created_at": "2017-01-30T11:55:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-08T12:27:24.051495+00:00", 
+  "modified_at": "2017-02-23T11:53:32.672637+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "398b6fb008bf440b9adfa4c95e5a0a10", 
   "published": null, 
-  "position": 5, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "start-a-business-with-little-or-no-cash", 
   "uuid": "508052c32b544f19a8691ca57e01c34f"

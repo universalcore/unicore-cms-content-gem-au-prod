@@ -6,12 +6,12 @@
   "primary_category": "351f2952bdd24f0cbddccb5d4767e2a8", 
   "created_at": "2017-01-24T10:46:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-21T12:31:13.700495+00:00", 
+  "modified_at": "2017-02-23T11:52:07.789002+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "a93e4cf5e60740db9fd49ad279f6a813", 
   "published": null, 
-  "position": 35, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-healthy-are-you", 
   "uuid": "6b68d2413d214e13ac7ecb2e922c2fa3"

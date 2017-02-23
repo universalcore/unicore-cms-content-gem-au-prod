@@ -6,12 +6,12 @@
   "primary_category": "351f2952bdd24f0cbddccb5d4767e2a8", 
   "created_at": "2017-01-24T08:30:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-21T12:27:40.417659+00:00", 
+  "modified_at": "2017-02-23T11:52:08.375837+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "e7dee80d49174fcca4950357f1b22a37", 
   "published": null, 
-  "position": 39, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "get-moving-be-happy", 
   "uuid": "71685c8ae85f4a31ba75fe16b507d52b"

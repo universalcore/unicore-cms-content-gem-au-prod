@@ -6,12 +6,12 @@
   "primary_category": "0068800738b44a9893ca65c8d4d64233", 
   "created_at": "2017-01-23T14:23:25+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-08T12:38:34.681150+00:00", 
+  "modified_at": "2017-02-23T11:53:35.399544+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "2f2e9551136843bcb92e23ec3ee57237", 
   "published": null, 
-  "position": 42, 
+  "position": 16, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "girls-are-learning-around-the-world", 
   "uuid": "a56994dcac6c41fcad928d574e5ac710"

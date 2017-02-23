@@ -6,12 +6,12 @@
   "primary_category": "351f2952bdd24f0cbddccb5d4767e2a8", 
   "created_at": "2017-01-24T08:49:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-21T12:29:18.099527+00:00", 
+  "modified_at": "2017-02-23T11:52:08.189767+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "14f10e5d7f3f4f6498186d7b76901f95", 
   "published": null, 
-  "position": 38, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "pust-mesyachnye-prohodyat-legko", 
   "uuid": "94af18956adc4133868e73e4f883827a"

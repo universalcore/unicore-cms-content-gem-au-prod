@@ -6,12 +6,12 @@
   "primary_category": "aff0a0e276a544d391f9679869bc5ca0", 
   "created_at": "2016-04-27T05:30:16+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-21T12:35:39.583965+00:00", 
+  "modified_at": "2017-02-23T11:54:04.418896+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "16637bb77ff64a8da0b4ba7c2bb85c0c", 
   "published": null, 
-  "position": 54, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "assaults-shootings-happen-here", 
   "uuid": "740723ee4b5e4a80a62f39ae915d114e"
